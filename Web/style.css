@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+}
+
+button {
+    height: 50px;
+    width: 50%;
+    border-style: hidden;
+}
+
+.inline {
+    display: inline;
+    background-color: brown;
+}
